@@ -1,0 +1,58 @@
+import { Product } from '@/types/product';
+
+export const products: Product[] = [
+  {
+    id: 1,
+    name: 'Пряники медовые',
+    description: 'Классические медовые пряники с натуральным мёдом',
+    price: 450,
+    image: 'https://cdn.poehali.dev/projects/32d52c4e-3b52-4524-8737-c6583b08e709/files/63c55420-0040-450c-8d49-bf4d349011b2.jpg',
+    category: 'gingerbread',
+    weight: '300г',
+  },
+  {
+    id: 2,
+    name: 'Пряничные сердца',
+    description: 'Ароматные пряники в форме сердец с глазурью',
+    price: 520,
+    image: 'https://cdn.poehali.dev/projects/32d52c4e-3b52-4524-8737-c6583b08e709/files/63e35c17-fecc-482d-8f2a-5cacf9f8b87c.jpg',
+    category: 'gingerbread',
+    weight: '250г',
+  },
+  {
+    id: 3,
+    name: 'Миндаль жареный',
+    description: 'Отборный калифорнийский миндаль, обжаренный без масла',
+    price: 680,
+    image: 'https://cdn.poehali.dev/projects/32d52c4e-3b52-4524-8737-c6583b08e709/files/109db61e-c83b-4e7c-96d2-60161446b487.jpg',
+    category: 'nuts',
+    weight: '200г',
+  },
+  {
+    id: 4,
+    name: 'Грецкий орех',
+    description: 'Свежие грецкие орехи высшего качества',
+    price: 590,
+    image: 'https://cdn.poehali.dev/projects/32d52c4e-3b52-4524-8737-c6583b08e709/files/109db61e-c83b-4e7c-96d2-60161446b487.jpg',
+    category: 'nuts',
+    weight: '250г',
+  },
+  {
+    id: 5,
+    name: 'Ассорти орехов',
+    description: 'Микс из миндаля, фундука и грецкого ореха',
+    price: 750,
+    image: 'https://cdn.poehali.dev/projects/32d52c4e-3b52-4524-8737-c6583b08e709/files/109db61e-c83b-4e7c-96d2-60161446b487.jpg',
+    category: 'nuts',
+    weight: '300г',
+  },
+  {
+    id: 6,
+    name: 'Имбирные пряники',
+    description: 'Острые пряники с имбирём и корицей',
+    price: 480,
+    image: 'https://cdn.poehali.dev/projects/32d52c4e-3b52-4524-8737-c6583b08e709/files/63c55420-0040-450c-8d49-bf4d349011b2.jpg',
+    category: 'gingerbread',
+    weight: '300г',
+  },
+];
