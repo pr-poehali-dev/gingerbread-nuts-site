@@ -21,9 +21,9 @@ export const products: Product[] = [
   },
   {
     id: 3,
-    name: 'Печенье «Орешки» с вареной сгущёнкой',
-    description: 'Классическое печенье в форме орешков с начинкой из варёной сгущёнки',
-    price: 480,
+    name: 'Печенье «Орешки» красный бархат',
+    description: 'Нежное печенье в форме орешков с кремовой начинкой красный бархат',
+    price: 520,
     image: 'https://cdn.poehali.dev/projects/32d52c4e-3b52-4524-8737-c6583b08e709/files/109db61e-c83b-4e7c-96d2-60161446b487.jpg',
     category: 'nuts',
     weight: '200г',
