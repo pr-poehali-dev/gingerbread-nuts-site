@@ -11,7 +11,7 @@ export default function Footer() {
               <span className="text-xl font-bold">Непростое печенье</span>
             </div>
             <p className="text-primary-foreground/80 text-sm">
-              Натуральные пряники и орехи ручной работы с доставкой по городу
+              Натуральные пряники и печенье ручной работы с доставкой по городу
             </p>
           </div>
 
