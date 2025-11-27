@@ -23,7 +23,7 @@ export default function Header({ cartItemsCount, onCartClick }: HeaderProps) {
       <div className="container mx-auto px-4 h-16 flex items-center justify-between">
         <a href="#home" className="flex items-center gap-2">
           <span className="text-2xl">🍪</span>
-          <span className="text-xl font-bold text-primary">ПряникОрех</span>
+          <span className="text-xl font-bold text-primary">Непростое печенье</span>
         </a>
 
         <nav className="hidden md:flex items-center gap-8">

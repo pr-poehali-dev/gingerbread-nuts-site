@@ -8,7 +8,7 @@ export default function Footer() {
           <div>
             <div className="flex items-center gap-2 mb-4">
               <span className="text-2xl">🍪</span>
-              <span className="text-xl font-bold">ПряникОрех</span>
+              <span className="text-xl font-bold">Непростое печенье</span>
             </div>
             <p className="text-primary-foreground/80 text-sm">
               Натуральные пряники и орехи ручной работы с доставкой по городу
@@ -79,7 +79,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-primary-foreground/20 pt-8 text-center text-sm text-primary-foreground/60">
-          <p>© 2024 ПряникОрех. Все права защищены</p>
+          <p>© 2024 Непростое печенье. Все права защищены</p>
         </div>
       </div>
     </footer>
